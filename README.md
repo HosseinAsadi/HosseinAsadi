@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on develop mobile application as full stack
-- 🌱 I’m currently learning TDD clean architecture
+- 🌱 I’m currently learning TDD and bloc architecture
 - 💬 Ask me about flutter, django, drf, docker(also i'm learning)
 - 📫 How to reach me: [__Telegram__](https://t.me/Ho3einA_98) | [__Email__](mailto:HosseinA.9876@gmail.com) | [__LinkedIn__](https://www.linkedin.com/in/hossein-asadi-dev/) | 
 
