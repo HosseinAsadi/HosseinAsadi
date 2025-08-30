@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m full stack developer
-- 💬 Ask me about flutter, django, drf, docker, bloc chain(smart contract)(ETH, TON)
+- 💬 Ask me about flutter, django, drf, docker, blockchain(smart contract)(ETH, TON)
 - 📫 How to reach me: [__Telegram__](https://t.me/Ho3einA_98) | [__Email__](mailto:HosseinA.9876@gmail.com) | [__LinkedIn__](https://www.linkedin.com/in/hossein-asadi-dev/) | 
 
 ---
