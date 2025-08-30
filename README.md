@@ -13,7 +13,7 @@
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nessshon/nessshon/output/github-contribution-grid-snake.svg" />
     </picture>
 </div>
-<img src="https://komarev.com/ghpvc/?username=HosseinAsadi&color=0D1117&style=flat-square"/>
+
 <!--
 **HosseinAsadi/HosseinAsadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
